@@ -1,4 +1,8 @@
 package com.d1rannn.assignment2;
+
+import org.springframework.stereotype.Service;
+import org.springframework.beans.factory.annotation.Autowired;
+
 // Alternative Service Implementation
 @Service
 public class AlternativeBookService implements BookService {

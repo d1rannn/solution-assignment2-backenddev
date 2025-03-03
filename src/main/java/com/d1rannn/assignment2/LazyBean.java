@@ -1,4 +1,8 @@
 package com.d1rannn.assignment2;
+
+import org.springframework.stereotype.Component;
+import org.springframework.context.annotation.Lazy;
+
 // Lazy Singleton Bean
 @Component
 @Lazy
